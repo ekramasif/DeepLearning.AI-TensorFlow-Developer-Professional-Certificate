@@ -31,9 +31,9 @@
 <details>
 	<summary><b>Progaming Assignment</b></summary>
 
-- [Week 1 Assignment: Housing Prices](C1W1_Assignment.ipynb)
-- [Week 2: Implementing Callbacks in TensorFlow using the MNIST Dataset](C1W2_Assignment.ipynb)
-- [Week 3: Improve MNIST with Convolutions](C1W3_Assignment.ipynb)
-- [Week 4: Handling Complex Images - Happy or Sad Dataset](C1W4_Assignment.ipynb)
+- [Week 1 Assignment: Housing Prices](https://github.com/ekramasif/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Programming%20Assignmnet/C1W1_Assignment.ipynb)
+- [Week 2: Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/ekramasif/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Programming%20Assignmnet/C1W2_Assignment.ipynb)
+- [Week 3: Improve MNIST with Convolutions](https://github.com/ekramasif/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Programming%20Assignmnet/C1W3_Assignment.ipynb)
+- [Week 4: Handling Complex Images - Happy or Sad Dataset](https://github.com/ekramasif/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Programming%20Assignmnet/C1W4_Assignment.ipynb)
 
 </details>
